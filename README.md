@@ -41,7 +41,8 @@
   46522 Rick Sanchez\
   25712 Morty Smith\
   38314 Summer Smith\
-  12587 rick Sanchez\
+  12587 rick Sanchez
+  
   ***
 **Sample Output 1:**
 
